@@ -1,0 +1,2 @@
+datadir: 'data/KNMI.txt.tsv'
+data_folder: '../data/'
